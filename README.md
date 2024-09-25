@@ -204,7 +204,7 @@ soundcloud
 github
 ### Java
 
-### C#
+### C#  Fernando López-Egea Prado e Ivan Villanueva Soler
 1. Descripción
 C# es un lenguaje de programación orientado a objetos creado por Microsoft para la plataforma .NET. Combina la simplicidad de lenguajes como Java con la potencia de C++, y es ampliamente utilizado para desarrollar aplicaciones de escritorio, web, móviles y videojuegos.
 
